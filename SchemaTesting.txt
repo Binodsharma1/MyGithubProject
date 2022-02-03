@@ -119,3 +119,5 @@ DEPARTMENT_ID FROM EMPLOYEES
 Adding index constraints
 Cluster index
 Non cluster index
+
+THANK YOU
