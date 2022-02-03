@@ -121,3 +121,5 @@ Cluster index
 Non cluster index
 
 THANK YOU
+
+usefule DB Testing Query
