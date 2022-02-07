@@ -116,10 +116,7 @@ DATEDIFF(YEAR, HIRE_DATE, GETDATE()) AS EXPERIENCE, JOB_ID,
 SALARY+ISNULL(COMMISSION_PCT,0) TOTAL_SALARY, MANAGER_ID, 
 DEPARTMENT_ID FROM EMPLOYEES
 
-Adding index constraints
-Cluster index
-Non cluster index
+--Edit completed ----------
 
-THANK YOU
 
 usefule DB Testing Query
